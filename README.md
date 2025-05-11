@@ -16,10 +16,11 @@ This library provides a simple, non-blocking task scheduler that allows multiple
 
 ## Installation
 
-1. Download or clone this repository.
-2. Place the `FreeSchedule` folder in your Arduino libraries directory (`Documents/Arduino/libraries/`).
-3. Restart the Arduino IDE.
-
+1. Download the ZIP file.
+2. Open the Arduino IDE.
+3. Go to **Sketch** > **Include Library** > **Add .ZIP Library**.
+4. Select the downloaded ZIP file.
+5. The library will be installed and ready to use.
 ---
 
 ## Usage
